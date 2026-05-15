@@ -1,0 +1,4 @@
+Assignment_5_/data_and_results/*.pkl
+Assignment_5_/data_and_results/returns.csv
+*.ipynb_checkpoints/
+__pycache__/
